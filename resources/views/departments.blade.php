@@ -1,7 +1,7 @@
 @extends("theme")
 @section("content")
 <div class="container">
-<div class="class">
+    <div class="class">
     <div class="row">
         <div class="col col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
             <div class="accordion" id="accordionExample">

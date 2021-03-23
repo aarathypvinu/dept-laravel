@@ -9,8 +9,7 @@
 </head>
 <body>
     
-        <div class="row">
-            <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+       
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <div class="container-fluid">
                       <a class="navbar-brand" href="#">RCSS</a>
@@ -29,8 +28,7 @@
                       </div>
                     </div>
                   </nav>
-                  </div>
-                  </div>
+                  
                   
 
 @yield("content")
