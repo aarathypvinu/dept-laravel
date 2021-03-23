@@ -1,0 +1,1 @@
+web: vendor/bin/herou-php-apache2 public/
