@@ -3,7 +3,7 @@
 <div class="container">
     <div class="class">
     <div class="row">
-        <div class="col col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+        <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><br><br><br>
             <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
@@ -21,8 +21,14 @@
                 
               </div>
         </div>
+    
+    <div class="col col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><br><br><br><br><br><br>
+    <div class="card" style="width: 27rem;">
+  <img height="200px"and width ="50px" src="https://i2.wp.com/coverlettersandresume.com/wp-content/uploads/Computer-Science-Intern-Cover-Letter-Sample-Banner-1.jpg?fit=672%2C243&ssl=1" class="card-img-top" alt="...">
+  
+</div>
     </div>
+
 </div>
-</div>
-</div>
+
 @endsection
